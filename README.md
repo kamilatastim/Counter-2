@@ -1,1 +1,1 @@
-# Counter-2
+# Counter React
